@@ -1,0 +1,7 @@
+echo "# hw" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Lov3notform3/hw.git
+ git push - u 原产地主要
